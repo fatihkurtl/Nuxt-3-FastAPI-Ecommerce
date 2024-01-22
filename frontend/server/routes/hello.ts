@@ -1,0 +1,1 @@
+export default defineEventHandler(() => 'from routes/hello.ts, hello world!')
